@@ -1,0 +1,6 @@
+{
+  "name": "CODM Grind Tracker",
+  "description": "Offline-first Call of Duty: Mobile camo and weapon grind tracker with Room persistence, favorites, dynamic statistics, and JSON backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
